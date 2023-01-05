@@ -1,0 +1,5 @@
+This is first text file. which i will receive in a php file by creating file.php
+This is scecond line.
+this is third line .
+this is fourth line.
+this is last line.
